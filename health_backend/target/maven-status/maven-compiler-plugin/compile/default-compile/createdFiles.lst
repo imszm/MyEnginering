@@ -1,0 +1,7 @@
+com\szm\controller\SetmealController.class
+com\szm\controller\CheckItemController.class
+com\szm\controller\OrderSettingController.class
+com\szm\controller\ReportController.class
+com\szm\controller\UserController.class
+com\szm\service\SpringSecurityUserService.class
+com\szm\controller\CheckGroupController.class

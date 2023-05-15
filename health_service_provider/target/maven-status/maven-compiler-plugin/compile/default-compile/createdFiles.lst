@@ -1,0 +1,17 @@
+com\szm\dao\OrderSettingDao.class
+com\szm\dao\PermissionDao.class
+com\szm\dao\OrderDao.class
+com\szm\dao\UserDao.class
+com\szm\service\impl\ReportServiceImpl.class
+com\szm\dao\CheckItemDao.class
+com\szm\service\impl\CheckItemServiceImpl.class
+com\szm\dao\SetmealDao.class
+com\szm\service\impl\OrderSettingServiceImpl.class
+com\szm\service\impl\SetmealServiceImpl.class
+com\szm\dao\CheckGroupDao.class
+com\szm\service\impl\UserServiceImpl.class
+com\szm\service\impl\CheckGroupServiceImpl.class
+com\szm\service\impl\MemberServiceImpl.class
+com\szm\dao\RoleDao.class
+com\szm\service\impl\OrderServiceImpl.class
+com\szm\dao\MemberDao.class
